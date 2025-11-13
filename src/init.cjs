@@ -220,7 +220,9 @@ async function run() {
   console.log("[das-he] Done.\n");
   console.log("Next steps:");
   console.log(`  cd ${targetName}`);
-  console.log("  open docs/agent/AGENT_CONFIG.yaml and adapt it to your project.");
+  console.log("  Open docs/agent/AGENT_CONFIG.yaml and configure the agent behavior.");
+  console.log("  Review the documentation templates under docs/");
+  console.log("  Start coding inside src/");
 }
 
 function printHelp() {

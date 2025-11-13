@@ -1,6 +1,6 @@
 <div dir="rtl" style="text-align: right;">
 
-# 📦 Docs-as-System StarterKit (Hebrew Edition)
+# Docs-as-System StarterKit (Hebrew Edition)
 
 **Docs-as-System StarterKit Hebrew** הוא CLI שמייצר פרויקט חדש לפי המתודולוגיה Docs-as-System.  
 הכלי בונה שלד בסיסי, ממלא את תיקיית `docs` בתבניות עדכניות, ומכין אותך לעבודה עם סוכן ה־AI בתוך ה־IDE.
@@ -9,27 +9,24 @@
 
 ---
 
-## 🚀 התקנה
+## התקנה
 
 ### שימוש ללא התקנה גלובלית
 
 ```bash
 npx docs-as-system-starterkit-he init my-project
 ```
-## 🚀 התקנה גלובלית
+## התקנה גלובלית
 
 ```bash
 npm install -g docs-as-system-starterkit-he
 das-he init my-project
 ```
 
-🛠 פקודות זמינות
+## פקודות זמינות
 יצירת פרויקט חדש
-
 ```bash
-
-das-he init <project-name>
-
+das-he init project-name
 ```
 
 הפקודה יוצרת פרויקט חדש הכולל:
@@ -50,7 +47,7 @@ README בסיסי לפרויקט החדש
 
 ---
 
-## 📂 מבנה הפרויקט החדש
+## מבנה הפרויקט החדש
 
 לאחר יצירת פרויקט, המבנה ייראה כך:
 </div>
@@ -84,7 +81,7 @@ README בסיסי לפרויקט החדש
 </div>
 <div dir="rtl" style="text-align: right;">
 
-## 🧩 למה Docs-as-System?
+## למה Docs-as-System?
 
 Docs-as-System היא מתודולוגיה שמחברת בין:
 
@@ -98,12 +95,24 @@ Docs-as-System היא מתודולוגיה שמחברת בין:
 
 ---
 
-## 👥 תורמים
+## תורמים
 
-תודה למי שלקח חלק ותרם:
+החבילה נבנתה בשיתוף פעולה של אנשים מצוינים, וכל תרומה מוזכרת כאן כדי לשמור על שקיפות והערכה מקצועית.
 
-- **יובל ואנונו**
-- **יהונתן ממן**
+### תורמים לפרויקט Docs as System StarterKit Hebrew
+
+- **יובל ואנונו**  
+  השתתפה בגיבוש הרעיונות הראשוניים וליוותה את בניית ה CLI.
+
+- **יהונתן ממן**  
+  תרם בבדיקות, הערות עומק ושיפור התבניות.
+
+### איך מצטרפים לרשימת התורמים
+
+אם תרמת קוד, שיפרת תבנית, תיקנת בעיה או עזרת לעצב את הכלי בדרכו הנוכחית  
+אתה מוזמן לפתוח Pull Request, ובאישור יתווסף שמך כאן.
+
+התיעוד הזה חי, ומתעדכן בכל תרומה משמעותית.
 
 ---
 
@@ -114,13 +123,12 @@ MIT License
 
 ---
 
-## 🔗 קישורים
 
-ריפו GitHub  
+ריפו ב GitHub    
 https://github.com/tomkedem/Docs-as-System-StarterKit-He
 
 ---
 
-© 2025 תומר קדם. חלק ממערך התבניות הרשמי של **Docs-as-System**.
+>© 2025 תומר קדם. חלק ממערך התבניות הרשמי של **Docs-as-System**.
 
 </div>
