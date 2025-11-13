@@ -64,6 +64,10 @@ const TEMPLATE_FILES = [
     dest: "docs/logs/IMPLEMENTATION_LOG.md"
   },
   {
+    src: "logs/IMPLEMENTATION_LOG_BY_CYCLE_TEMPLATE.md",
+    dest: "docs/logs/IMPLEMENTATION_LOG_BY_CYCLE.md"
+  },
+  {
     src: "logs/IMPLEMENTATION_LOG_SUMMARY_TEMPLATE.he.md",
     dest: "docs/logs/IMPLEMENTATION_LOG_SUMMARY.he.md"
   },
@@ -103,6 +107,10 @@ const TEMPLATE_FILES = [
   {
     src: "CHANGELOG_TEMPLATE.md",
     dest: "CHANGELOG.md"
+  },
+  {
+    src: "IMPLEMENTATION_GUIDE.md",
+    dest: "docs/IMPLEMENTATION_GUIDE.md"
   },
   {
     src: "METHODOLOGY_OVERVIEW.md",
