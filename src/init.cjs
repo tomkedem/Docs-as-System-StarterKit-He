@@ -228,3 +228,10 @@ function printHelp() {
 }
 
 module.exports = { run };
+
+if (require.main === module) {
+  run().catch(err => {
+    console.error("[das-he] Unhandled error:", err);
+    process.exit(1);
+  });
+}
