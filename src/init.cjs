@@ -50,12 +50,12 @@ const TEMPLATE_FILES = [
     dest: "docs/automation/WORKFLOWS_GUIDE.md"
   },
   {
-    src: "automation/git/GUARDRAILS_TEMPLATE.md",
-    dest: "docs/automation/git/GUARDRAILS.md"
+    src: "automation/GUARDRAILS_TEMPLATE.md",
+    dest: "docs/automation/GUARDRAILS.md"
   },
   {
-    src: "automation/git/PROMPTS_LIBRARY_TEMPLATE.md",
-    dest: "docs/automation/git/PROMPTS_LIBRARY.md"
+    src: "automation/PROMPTS_LIBRARY_TEMPLATE.md",
+    dest: "docs/automation/PROMPTS_LIBRARY.md"
   },
 
   // logs
