@@ -160,7 +160,7 @@ async function copyDir(source, target) {
 
 // הורדת כל התבניות מגיטהאב לתוך docs של הפרויקט
 async function downloadTemplatesIntoProject(targetDir) {
-  console.log("[das-he] Downloading templates from GitHub into docs/ ...");
+  console.log("[das-he] Downloading templates from GitHub into project structure ...");
 
   for (const tpl of TEMPLATE_FILES) {
     const url = `${GITHUB_RAW_BASE}/${tpl.src}`;
