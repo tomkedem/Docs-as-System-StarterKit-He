@@ -8,7 +8,7 @@
 # תיעוד החלטה ארכיטקטונית — Architectural Decision Record (ADR)
 
 **מסמך בפרויקט בפועל:** `docs/architecture/ADR_<נושא>.md`  
-**תבנית בתיקיית התבניות:** `templates/architecture/ADR_TEMPLATE.md`  
+**תבנית בתיקיית התבניות:** `MethodologyTemplates/architecture/ADR_TEMPLATE.md`  
 **יוצר:** אדם או סוכן (בהנחיה אנושית)  
 **מאשר:** ארכיטקט / Tech Lead / Product Owner  
 **מטרה:** לתעד החלטה הנדסית משמעותית, כולל הנימוקים והשלכותיה.
@@ -162,6 +162,5 @@
 
 ---
 
-© 2025 תומר קדם. חלק ממערך התבניות הרשמי של **Docs-as-System**.
-
+>© 2025 תומר קדם. חלק ממערך התבניות הרשמי של **Docs-as-System**.
 </div>

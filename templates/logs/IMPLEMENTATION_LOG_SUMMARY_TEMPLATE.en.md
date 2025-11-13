@@ -47,8 +47,6 @@ based on data from `docs/logs/IMPLEMENTATION_LOG.md`.
 > Up to 10 most recent records are displayed.  
 > The agent refreshes this section automatically on every CI run or new PR event.
 
----
-
 ## Active Exceptions
 
 | ID | Description | Status | Created By | Last Updated |
@@ -59,7 +57,6 @@ based on data from `docs/logs/IMPLEMENTATION_LOG.md`.
 > Closed exceptions are automatically archived.  
 > Only currently active issues are shown here.
 
----
 
 ## General Metrics
 
@@ -99,6 +96,5 @@ and review ongoing issues at a glance.
 This file bridges the technical implementation logs with management-level reporting  
 and serves as the operational truth for any Docs-as-System–based project.
 
----
 
-© 2025 Tomer Kedem. Part of the official **Docs-as-System** template set.
+>© 2025 Tomer Kedem. Part of the official **Docs-as-System** template set.

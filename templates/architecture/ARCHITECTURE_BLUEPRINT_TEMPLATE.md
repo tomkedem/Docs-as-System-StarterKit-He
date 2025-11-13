@@ -219,6 +219,6 @@ Frontend → API Gateway → Application → Queue → Consumer → DB → Notif
 
 ---
 
-© 2025 תומר קדם. חלק ממערך התבניות הרשמי של **Docs-as-System**.
+>© 2025 תומר קדם. חלק ממערך התבניות הרשמי של **Docs-as-System**.
 
 </div>

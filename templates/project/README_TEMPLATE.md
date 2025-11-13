@@ -125,6 +125,5 @@ dotnet run   # או npm start / python main.py בהתאם לפרויקט
 
 ---
 
-© 2025 תומר קדם. חלק ממערך התבניות הרשמי של **Docs-as-System**.
-
+>© 2025 תומר קדם. חלק ממערך התבניות הרשמי של **Docs-as-System**.
 </div>

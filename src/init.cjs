@@ -99,6 +99,11 @@ const TEMPLATE_FILES = [
     src: "project/README_TEMPLATE.md",
     dest: "docs/project/README.md"
   },
+  // root changelog
+  {
+    src: "CHANGELOG_TEMPLATE.md",
+    dest: "CHANGELOG.md"
+  },
   {
     src: "METHODOLOGY_OVERVIEW.md",
     dest: "docs/METHODOLOGY_OVERVIEW.md"

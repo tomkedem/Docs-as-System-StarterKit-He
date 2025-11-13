@@ -66,3 +66,4 @@ git:
     trailers:
       # ייחוס משותף לסוכן המקומי שביצע את השינוי.
       - "Co-authored-by: cargo-helper <agent@local>"
+      
