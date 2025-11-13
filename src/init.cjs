@@ -100,8 +100,8 @@ const TEMPLATE_FILES = [
     dest: "docs/project/README.md"
   },
   {
-    src: "project/METHODOLOGY_OVERVIEW.md",
-    dest: "docs/project/METHODOLOGY_OVERVIEW.md"
+    src: "METHODOLOGY_OVERVIEW.md",
+    dest: "docs/METHODOLOGY_OVERVIEW.md"
   }
 ];
 
@@ -215,7 +215,7 @@ async function run() {
   console.log("[das-he] Done.\n");
   console.log("Next steps:");
   console.log(`  cd ${targetName}`);
-  console.log("  open docs/ and AGENT_CONFIG.yaml and adapt to your project.");
+  console.log("  open docs/agent/AGENT_CONFIG.yaml and adapt it to your project.");
 }
 
 function printHelp() {
