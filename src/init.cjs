@@ -109,8 +109,8 @@ const TEMPLATE_FILES = [
     dest: "CHANGELOG.md"
   },
   {
-    src: "IMPLEMENTATION_GUIDE.md",
-    dest: "IMPLEMENTATION_GUIDE.md"
+    src: "PROJECT_IMPLEMENTATION_GUIDE.md",
+    dest: "PROJECT_IMPLEMENTATION_GUIDE.md"
   },
   {
     src: "METHODOLOGY_OVERVIEW.md",
