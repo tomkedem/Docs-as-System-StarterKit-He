@@ -110,7 +110,7 @@ const TEMPLATE_FILES = [
   },
   {
     src: "IMPLEMENTATION_GUIDE.md",
-    dest: "docs/IMPLEMENTATION_GUIDE.md"
+    dest: "IMPLEMENTATION_GUIDE.md"
   },
   {
     src: "METHODOLOGY_OVERVIEW.md",
