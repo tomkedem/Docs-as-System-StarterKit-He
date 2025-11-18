@@ -1,6 +1,6 @@
 {
   "name": "docs-as-system-starterkit-he",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Hebrew Starter Kit for creating new projects using the Docs as System methodology.",
   "license": "MIT",
   "type": "commonjs",
