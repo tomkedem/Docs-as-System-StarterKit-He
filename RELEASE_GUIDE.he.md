@@ -146,6 +146,8 @@ git push origin --tags
 מהשורש של הפרויקט מריצים:
 
 ```bash
+npm login 
+npm link 
 npm publish --access public
 ```
 
